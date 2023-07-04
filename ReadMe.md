@@ -3,11 +3,6 @@
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jay-flow) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9779596/jay-flow)
 
-# 📊GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jay-flow&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jay-flow&theme=radical&hide_border=false)<br/>
-
 # 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Jay-flow&theme=radical&no-frame=false&no-bg=false&margin-w=4)
